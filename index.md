@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Jorge Bahamonde's page
 
-You can use the [editor on GitHub](https://github.com/jbahamon/jbahamon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! These are some of my projects and stuff.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Active projects
 
-### Markdown
+These are projects I am actively working on.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [HuasoHuare](https://jbahamon.github.io/HuasoWare): A WarioWare but with
+chilean-themed microgames.
 
-```markdown
-Syntax highlighted code block
+## Inactive projects
 
-# Header 1
-## Header 2
-### Header 3
+Projects I'll probably work on at some point. 
 
-- Bulleted
-- List
+* [CTM](https://jbahamon.github.io/CTM): A MUGEN-based fighting game involving
+* Chrono Trigger's characters.
 
-1. Numbered
-2. List
+## Completed projects
 
-**Bold** and _Italic_ and `Code` text
+Probably won't work on these.
 
-[Link](url) and ![Image](src)
-```
+* [rainbowify](https://github.com/jbahamon/rainbowify): An Octave script for
+* creating colorful frames for trippy GIFs.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* [media-analysis](https://github.com/jbahamon/media-analysis): A bunch of
+* scripts I used for my Master's thesis.
 
-### Jekyll Themes
+* [quantum-test](https://github.com/jbahamon/quantum-test): A test to determine
+which Quantum Mechanics interpretation is the most compatible with you. Take the
+test [here](https://jbahamon.github.io/quantum-test/index.html).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jbahamon/jbahamon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Abandoned projects
 
-### Support or Contact
+For one reason or another, these projects have been abandoned and are only kept
+for archival purposes.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [dunno](): A modular platdformer engine, intended to be a "versus" platformer. 
+Abandoned because, well, Super Mario Bros. 35 ended up implementing the idea in
+a superior way.
+
+* [DudoBot](https://github.com/jbahamon/dudo-bot): A bot that allows people to
+play a variant of Liar's Dice on Telegram. Abandoned because the gameplay loop
+ended up being too confusing for players :(
+  
