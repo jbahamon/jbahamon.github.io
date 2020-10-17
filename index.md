@@ -6,7 +6,7 @@ Hi! These are some of my projects and stuff.
 
 These are projects I am actively working on.
 
-* [HuasoHuare](https://github.om/jbahamon/HuasoWare): A WarioWare but with
+* [HuasoHuare](https://github.com/jbahamon/HuasoWare): A WarioWare but with
 chilean-themed microgames.
 
 ## Inactive projects
