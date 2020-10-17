@@ -14,7 +14,7 @@ chilean-themed microgames.
 Projects I'll probably work on at some point. 
 
 * [CTM](https://jbahamon.github.io/CTM): A MUGEN-based fighting game involving
-* Chrono Trigger's characters.
+Chrono Trigger's characters.
 
 ## Completed projects
 
