@@ -6,8 +6,8 @@ Hi! These are some of my projects and stuff.
 
 These are projects I am actively working on.
 
-* [HuasoHuare](https://jbahamon.github.io/HuasoWare): A WarioWare but with
-chilean-themed microgames. Try it out [here](http://anakena.dcc.uchile.cl/~jbahamon/HuasoHuer/HuasoHuer.html).
+* [HuasoWare](https://jbahamon.github.io/HuasoWare): A WarioWare but with
+chilean-themed microgames. Try it out [here](http://anakena.dcc.uchile.cl/~jbahamon/HuasoWare/HuasoWare.html).
 
 ## Inactive projects
 
