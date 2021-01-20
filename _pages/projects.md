@@ -1,6 +1,6 @@
 ---
 title:  "Projects"
-permalink: /projects
+permalink: /projects/
 ---
 
 These are some of my projects and stuff.
