@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
+title:  "Changing the Style and Layout"
 date:   2021-01-19 10:50:00 -0300
 categories: site 
 ---
