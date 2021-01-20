@@ -1,0 +1,25 @@
+---
+layout: single
+title:  "About JRPGs"
+date:   2021-01-20 10:10:14 -0300
+categories: jrpgs
+---
+
+Recently, I've decided to try and adapt H. P. Lovecraft's  ["The Dream-Quest of Unknown
+Kadath"](https://www.hplovecraft.com/writings/texts/fiction/dq.aspx)  as a JRPG-styled game.
+TVTropes uses the term  [Eastern RPG](https://tvtropes.org/pmwiki/pmwiki.php/Main/EasternRPG), but I
+will be using JRPG, as  it's the one I've seen the most. I'm using Godot as the engine. 
+
+As a disclaimer, I'm a _huge_ [Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Cross) fan, so
+it's quite possible it will end up having many  similarities to it. However, in the spirit of
+exploring some variations in game design, I've been  playing through [Final Fantasy
+VI](https://en.wikipedia.org/wiki/Final_Fantasy_VI).  I've also played [Chrono
+Cross](https://en.wikipedia.org/wiki/Chrono_Cross), [Golden
+Sun](https://en.wikipedia.org/wiki/Golden_Sun), many Pokémon games, [Mario & Luigi: Partners in
+Time](https://en.wikipedia.org/wiki/Mario_%26_Luigi:_Partners_in_Time),  [Radiant
+Historia](https://en.wikipedia.org/wiki/Radiant_Historia) (even though I haven't finished  it, I
+managed to get to the final arc, IIRC), Undertale, and some 
+[Xenoblade Chronicles](https://en.wikipedia.org/wiki/Xenoblade_Chronicles). I'd also like to check 
+info on [Earthbound](https://en.wikipedia.org/wiki/EarthBound) series.
+
+I'll be writing my observations on battle systems, art styles and whatnot :)
