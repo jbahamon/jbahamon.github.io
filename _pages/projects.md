@@ -1,6 +1,9 @@
-# Jorge Bahamonde's page
+---
+title:  "Projects"
+permalink: /projects
+---
 
-Hi! These are some of my projects and stuff.
+These are some of my projects and stuff.
 
 ## Active projects
 
@@ -20,11 +23,11 @@ Projects I'll probably work on at some point.
 
 Probably won't work on these.
 
-* [rainbowify](https://github.com/jbahamon/rainbowify): An Octave script for
-* creating colorful frames for trippy GIFs.
+* [rainbowify](https://github.com/jbahamon/rainbowify): An Octave script for 
+creating colorful frames for trippy GIFs.
 
-* [media-analysis](https://github.com/jbahamon/media-analysis): A bunch of
-* scripts I used for my Master's thesis.
+* [media-analysis](https://github.com/jbahamon/media-analysis): A bunch of 
+scripts I used for my Master's thesis.
 
 * [quantum-test](https://github.com/jbahamon/quantum-test): A test to determine
 which Quantum Mechanics interpretation is the most compatible with you. Take the
