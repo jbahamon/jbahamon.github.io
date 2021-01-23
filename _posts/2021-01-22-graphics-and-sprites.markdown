@@ -33,10 +33,10 @@ special animations for running, and many sprites are reused for different
 purposes (such as having animations with 1 and 2 hands raised being used for
 things like climbing or throwing a toast). Simple expressive animations, such
 as laughing, being surprised and frowning, are also included, though they are
-at most 2 frames in length. Of particular  interest is the limitations in
-character design due to the sprite size: the  sprite creator revised the
-original concept for player character Terra Branford, giving her green hair
-to make her stand out among other characters.
+at most 2 frames in length. There are limitations in character design due to
+the sprite size: the sprite creator revised the original concept for player
+character Terra Branford, giving her green hair to make her stand out among
+other characters.
 
 ### Environment
 
