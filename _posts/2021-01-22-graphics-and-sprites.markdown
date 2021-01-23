@@ -159,7 +159,7 @@ Pokémon games.
 
 In terms of player character sizes, we roughly have:
 ``` 
-`FF6 < Golden Sun = Chrono Trigger < Radiant Historia`
+FF6 < Golden Sun = Chrono Trigger < Radiant Historia
 ```
 
 with Pokémon sprites having varying sizes, but usually toward the lower side
