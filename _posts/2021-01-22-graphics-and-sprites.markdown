@@ -55,6 +55,7 @@ animation, the sprite remains the same). Curiously, these enemy sprites also
 have a more realistic and detailed style, in contrast to the cartoony
 character sprites. This can be a bit weird when fighting human enemies!
 
+![Combat in FF6. Note the cartoonish player characters versus the more realistic enemies and background.](/assets/FF6_battle.png "Combat in FF6. Note the cartoonish player characters versus the more realistic enemies and background.")
 
 ## Pokémon (GB, 160x144; GBA, 240x160; NDS, 256x192)
 
@@ -74,6 +75,7 @@ displayed outside of battle, usually through simplified sprites. During
 battle, though, these creatures have sprites with a good amount of detail, but
 very limited animations.
 
+![Player characters from various Pokémon games. Note the large heads and very short legs.](/assets/Pokemon_protagonists.png "Player characters from various Pokémon games. Note the large heads and very short legs.")
 
 ### Environment
 
@@ -102,6 +104,8 @@ argued that this is appropriate because of the lack of world activities other
 than traveling: there's no random encounters or other events outside of
 cutscenes.
 
+![Combat in CT, happening in the same screen as exploration. Characters are taller than the games mentioned previously.](/assets/CT_combat.png "Combat in CT, happening in the same screen as exploration. Characters are taller than the games mentioned previously.")
+
 ### Environment
 
 Similar to FF6, Chrono Trigger has 16x16tiles and a good degree of detail in
@@ -122,6 +126,8 @@ emotes in speech bubbles; second, most complex out-of battle actions are
 performed via Psynergy: special abilities where the character assumes a
 casting pose. Finally, most animations keep the sprite size more or less 
 constant.
+
+![Golden Sun has limited character animations while in the local scene, but these are compensated through other graphical effects.](/assets/GS_psynergy.png "Golden Sun has limited character animations while in the local scene, but these are compensated through other graphical effects.")
 
 ### Environment
 
@@ -147,8 +153,9 @@ sprites also have a surprising amount of shading: the main character's hair
 has at least 8 shades of yellow. Each character also has their custom
 animations and attacks.
 
+![Radiant Historia's battle in action. Sprites are detailed though not flashy. Note the fluid animations despite the gif being a bit lackluster.](/assets/RH_battle_anims.png "Radiant Historia's battle in action. Sprites are detailed though not flashy. Note the fluid animations despite the gif being a bit lackluster.")
 
-### Envrionment
+### Environment
 
 The environment seems to mix 3D renders with some 2D and 3D objects and 2D
 NPCs. There is a world scene, but it's almost as simple as those from the

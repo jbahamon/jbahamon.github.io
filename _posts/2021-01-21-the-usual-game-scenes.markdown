@@ -120,7 +120,7 @@ on the World/Local Scenes. If the game has specific mechanics such as a
 grids (Radiant Historia does this), the game will probably use a completely
 different background for its Battle Scene.
 
-![Stocke, Aht and Gafka from Radiant Historia: Perfect Chronology fight a Memento Crab, in the game's battle scene](/assets/img/RHPC_combat.png "Stocke, Aht and Gafka from Radiant Historia: Perfect Chronology fight a Memento Crab, in the game's battle scene")
+![Stocke, Aht and Gafka from Radiant Historia: Perfect Chronology fight a Memento Crab, in the game's battle scene](/assets/img/RHPC_battle.png "Stocke, Aht and Gafka from Radiant Historia: Perfect Chronology fight a Memento Crab, in the game's battle scene")
 
 RPGs without a Battle Scene can be games where the action takes place in the
 Local Scene (e.g. most 2D Zelda games) or games where there's no fighting at
