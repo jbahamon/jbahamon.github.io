@@ -106,45 +106,44 @@ small.
 - Pokémon doesn't have one either; even though its world is bigger than 
 Undertale's and TWEWY's. This is compensated by having a fast-travel system.
 
-## The Combat Scene
+## The Battle Scene
 
-Most JRPGs have some sort of combat. There's different types of combat,
-ranging from full action RPGs like the top-down Zelda games and TWEWY to the
-strict turn-based system used in the Pokémon series. The less real-time,
-action-based combat and the more turn-based, command-based combat has a game,
-the more likely it is to have a specific scene for its combat.
+Most JRPGs have some sort of combat, ranging from full action RPGs like the
+top-down Zelda games and TWEWY to the strict turn-based system used in the
+Pokémon series. The less real-time, action-based combat and the more
+turn-based, command-based combat has a game, the more likely it is to have a
+specific scene for its battles.
 
-Combat is usually entered from the World and/or Local Scenes, depending on the
-game. The Combat Scene can have its own custom background or be overlaid on
-the World/Local Scenes. If the game has specific mechanics such as battle
+Battles are usually entered from the World and/or Local Scenes, depending on
+the game. The Battle Scene can have its own custom background or be overlaid
+on the World/Local Scenes. If the game has specific mechanics such as a
 grids (Radiant Historia does this), the game will probably use a completely
-different background for its Combat Scene.
+different background for its Battle Scene.
 
-![Stocke, Aht and Gafka from Radiant Historia: Perfect Chronology fight a Memento Crab, in the game's combat scene](/assets/img/RHPC_combat.png "Stocke, Aht and Gafka from Radiant Historia: Perfect Chronology fight a Memento Crab, in the game's combat scene")
+![Stocke, Aht and Gafka from Radiant Historia: Perfect Chronology fight a Memento Crab, in the game's battle scene](/assets/img/RHPC_combat.png "Stocke, Aht and Gafka from Radiant Historia: Perfect Chronology fight a Memento Crab, in the game's battle scene")
 
-
-RPGs without a Combat Scene can be games where the action takes place in the
-Local Scene (e.g. most 2D Zelda games) or games where there's no combat at
+RPGs without a Battle Scene can be games where the action takes place in the
+Local Scene (e.g. most 2D Zelda games) or games where there's no fighting at
 all.
 
 ### Some examples
 
 - Undertale, Chrono Cross, TWEWY, Final Fantasy 6, Golden Sun, Radiant
-Historia and the Pokémon series have a fully separate Combat Scene. Final
-Fantasy 6 and Golden sun can enter the Combat Scene from both the Local and
+Historia and the Pokémon series have a fully separate Battle Scene. Final
+Fantasy 6 and Golden sun can enter the Battle Scene from both the Local and
 World Scenes; the others can only do so via the Local Scene
  
-- Chrono Trigger overlays its combat over the Local Scene, but it's a
+- Chrono Trigger overlays its battles over the Local Scene, but it's a
 distinctly separate scene (as controls and mechanics are completely
 different). This fits with its fixed, Local Scene-based encounters instead of
 having random encounters.
 
-- 2D Zelda games have their combat in the Local Scene: there's no separate
-Combat Scene.
+- 2D Zelda games have their fighting in the Local Scene: there's no separate
+Battle Scene.
 
 ## The Menu Scene
 
-If the World and Local Scenes are where most of the plot takes place, and the Combat
+If the World and Local Scenes are where most of the plot takes place, and the Battle
 Scene is where most of the action takes place, the Menu Scene is where most of
 the customization takes place.  First, this scene can be used for in-universe
 actions such as using items, assigning equipment to characters, checking
@@ -181,5 +180,5 @@ So, what am I gonna do? I'm thinking of the following:
 
 - A simple, Radiant Historia-like World Scene.
 
-- I'd like to reproduce Chrono Trigger's Local Scene - Combat Scene transition
+- I'd like to reproduce Chrono Trigger's Local Scene - Battle Scene transition
 (i.e. overlaying the characters in the Local Scene as they battle)
