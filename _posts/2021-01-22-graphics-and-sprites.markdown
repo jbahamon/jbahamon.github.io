@@ -55,7 +55,7 @@ animation, the sprite remains the same). Curiously, these enemy sprites also
 have a more realistic and detailed style, in contrast to the cartoony
 character sprites. This can be a bit weird when fighting human enemies!
 
-![Combat in FF6. Note the cartoonish player characters versus the more realistic enemies and background.](/assets/img/FF6_battle.png "Combat in FF6. Note the cartoonish player characters versus the more realistic enemies and background.")
+![Combat in FF6. Note the cartoonish player characters versus the more realistic enemies and background.](/assets/img/FF6_battle.PNG "Combat in FF6. Note the cartoonish player characters versus the more realistic enemies and background.")
 
 ## Pokémon (GB, 160x144; GBA, 240x160; NDS, 256x192)
 
@@ -104,7 +104,7 @@ argued that this is appropriate because of the lack of world activities other
 than traveling: there's no random encounters or other events outside of
 cutscenes.
 
-![Combat in CT, happening in the same screen as exploration. Characters are taller than the games mentioned previously.](/assets/img/CT_combat.png "Combat in CT, happening in the same screen as exploration. Characters are taller than the games mentioned previously.")
+![Combat in CT, happening in the same screen as exploration. Characters are taller than the games mentioned previously.](/assets/img/CT_battle.PNG "Combat in CT, happening in the same screen as exploration. Characters are taller than the games mentioned previously.")
 
 ### Environment
 
@@ -156,7 +156,7 @@ animations and attacks.
 ![Radiant Historia's battle in action. Sprites are detailed though not flashy. Note the fluid animations despite the gif being a bit lackluster.](/assets/img/RH_battle_anims.png "Radiant Historia's battle in action. Sprites are detailed though not flashy. Note the fluid animations despite the gif being a bit lackluster.")
 
 
-![A clearer battle animation.](/assets/img/RH_stocke_anim.webp "A clearer battle animation.")
+![A clearer battle animation.](/assets/img/RH_stocke_attack.webp "A clearer battle animation.")
 
 ### Environment
 
