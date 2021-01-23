@@ -155,6 +155,9 @@ animations and attacks.
 
 ![Radiant Historia's battle in action. Sprites are detailed though not flashy. Note the fluid animations despite the gif being a bit lackluster.](/assets/RH_battle_anims.png "Radiant Historia's battle in action. Sprites are detailed though not flashy. Note the fluid animations despite the gif being a bit lackluster.")
 
+
+![A clearer battle animation.](/assets/RH_stocke_anim.webp "A clearer battle animation.")
+
 ### Environment
 
 The environment seems to mix 3D renders with some 2D and 3D objects and 2D
