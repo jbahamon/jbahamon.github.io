@@ -153,7 +153,7 @@ sprites also have a surprising amount of shading: the main character's hair
 has at least 8 shades of yellow. Each character also has their custom
 animations and attacks.
 
-![Radiant Historia's battle in action. Sprites are detailed though not flashy. Note the fluid animations despite the gif being a bit lackluster.](/assets/img/RH_battle_anims.png "Radiant Historia's battle in action. Sprites are detailed though not flashy. Note the fluid animations despite the gif being a bit lackluster.")
+![Radiant Historia's battle in action. Sprites are detailed though not flashy. Note the fluid animations despite the gif being a bit lackluster.](/assets/img/RH_battle_anims.gif "Radiant Historia's battle in action. Sprites are detailed though not flashy. Note the fluid animations despite the gif being a bit lackluster.")
 
 
 ![A clearer battle animation.](/assets/img/RH_stocke_attack.webp "A clearer battle animation.")
