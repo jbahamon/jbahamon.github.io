@@ -167,7 +167,7 @@ of the spectrum. I'm used to editing Chrono Triger sprites, so I'll be using
 sprite sizes around their size (currently working on a 17x35px person). I'd
 really like for my characters to display emotion and various techniques
 through their sprites, but I think Radiant Historia-sized sprites would
-overwhelm me. 
+destroy me. 
 
 About backgrounds, 16x16 sprites seem to be a natural choice, though the
 amount of work to be done to draw all tiles I'll need might be a bit
