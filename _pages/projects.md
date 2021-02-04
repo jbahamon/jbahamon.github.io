@@ -38,7 +38,7 @@ test [here](https://jbahamon.github.io/quantum-test/index.html).
 For one reason or another, these projects have been abandoned and are only kept
 for archival purposes.
 
-* [dunno](https://github.com/jbahamon/dunno): A modular platformer engine,
+* [dunno](https://jbahamon.github.com/dunno): A modular platformer engine,
 intended to be a "versus" platformer.  Abandoned because, well, Super Mario
 Bros. 35 ended up implementing the idea in a superior way.
 
