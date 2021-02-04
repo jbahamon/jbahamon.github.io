@@ -17,7 +17,7 @@ chilean-themed microgames. Try it out [here](http://anakena.dcc.uchile.cl/~jbaha
 Projects I'll probably work on at some point. 
 
 * [CTM](https://jbahamon.github.io/CTM): A MUGEN-based fighting game involving
-* Chrono Trigger's characters.
+Chrono Trigger's characters.
 
 ## Completed projects
 
@@ -38,9 +38,9 @@ test [here](https://jbahamon.github.io/quantum-test/index.html).
 For one reason or another, these projects have been abandoned and are only kept
 for archival purposes.
 
-* [dunno](): A modular platdformer engine, intended to be a "versus" platformer. 
-Abandoned because, well, Super Mario Bros. 35 ended up implementing the idea in
-a superior way.
+* [dunno](https://github.com/jbahamon/dunno): A modular platformer engine,
+intended to be a "versus" platformer.  Abandoned because, well, Super Mario
+Bros. 35 ended up implementing the idea in a superior way.
 
 * [DudoBot](https://github.com/jbahamon/dudo-bot): A bot that allows people to
 play a variant of Liar's Dice on Telegram. Abandoned because the gameplay loop
