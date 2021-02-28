@@ -122,7 +122,7 @@ Simple enough, this allows the player to save their progress. Some games allow
 the player to save at any time outside of battle (Pokémon). Others allow
 saving only at specific [save
 points](https://tvtropes.org/pmwiki/pmwiki.php/Main/SavePoint) (Radiant
-Historia): this menu would be disabled at other times. Some take a mixed
+Historia): this submenu would be disabled at other times. Some take a mixed
 approach, letting the player save anytime while in the World Scene, but only
 at specific points while in the Local Scene (Final Fantasy 6, Chrono Trigger).
 
