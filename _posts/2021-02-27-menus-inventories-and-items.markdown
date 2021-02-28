@@ -13,10 +13,10 @@ a bit on menus and I started looking at other games.
 
 ## Menus
 
-I will mainly talk about the menus used during world exploration (i.e. local
-and/or world scenes). Apart from these, we can find other menus such as the
-main menu and the battle menu. The former is usually quite simple, and the 
-latter is better analyzed when talking about battle systems.
+I will mainly talk (write?) about the menus used during world exploration
+(i.e. local and/or world scenes). Apart from these, we can find other menus
+such as the main menu and the battle menu. The former is usually quite simple,
+and the latter is better analyzed when talking about battle systems.
 
 In-game menus usually have a few submenus/categories. I will use similar words
 whenever possible instead of in-game terms, to simplify a bit:
