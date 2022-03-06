@@ -21,7 +21,7 @@ and the latter is better analyzed when talking about battle systems.
 In-game menus usually have a few submenus/categories. I will use similar words
 whenever possible instead of in-game terms, to simplify a bit:
 
-- **Final Fantasy 6** has Equip, Item, Skills, Relic, Status, Config, Save.
+- **Final Fantasy VI** has Equip, Item, Skills, Relic, Status, Config, Save.
 
 - **Chrono Trigger** has Equip, Item, Skills, Party, Config, Save.
 
@@ -53,12 +53,12 @@ if a different armor piece is equipped. Additional effects beyond the strictly
 numerical should be mentioned in this screen, too.
 
 Some games have specific equipment split into a different submenu, especially
-if it's related to a distinctive game mechanic. Final Fantasy 6 has the
+if it's related to a distinctive game mechanic. Final Fantasy VI has the
 _Relic_ submenu, which is essentially special equipment that can drastically
 alter a character's behavior in battle; Golden Sun has the _Djinn_ submenu,
 where magical creatures can be assigned to party members in order to
 drastically change their abilities and stats. Similar to these is Final
-Fantasy 7's _Materia_ submenu, where special items callled _Materia_ can be
+Fantasy VII's _Materia_ submenu, where special items callled _Materia_ can be
 assigned to characters to customize their skillset.
 
 The Pokémon games are a special case: the equipment system is greatly
@@ -89,7 +89,7 @@ energy and statistics such as attack, defense, etc.
 
 - Minor statistics such as total play time, in-game money and story progression.
 
-As said before, some games put some of these stuff elsewhere. Final Fantasy 6
+As said before, some games put some of these stuff elsewhere. Final Fantasy VI
 has the main menu screen handle general stats and party reordering, while the
 Status screen shows detailed stats. Chrono Trigger shows party stats in the
 Equip submenu, and the Party submenu only handles party reordering. Pokémon
@@ -103,7 +103,7 @@ Some games allow party members to use skills outside of battle. Some games
 allow [healing
 techniques](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheMedic) to be used
 in this fashion, offering an alternative to consumable items for restoring the
-party's health (Final Fantasy 6, Chrono Trigger, Golden Sun, Radiant
+party's health (Final Fantasy VI, Chrono Trigger, Golden Sun, Radiant
 Historia...). Other skills might affect the environment, such as [removing
 obstacles, solving puzzles and help with
 movement](https://tvtropes.org/pmwiki/pmwiki.php/Main/AbilityRequiredToProceed)
@@ -111,7 +111,7 @@ movement](https://tvtropes.org/pmwiki/pmwiki.php/Main/AbilityRequiredToProceed)
 
 If the game has [progression or learning system for
 skills](https://tvtropes.org/pmwiki/pmwiki.php/Main/SkillScoresAndPerks)
-(Final Fantasy 6, Chrono Trigger...), this submenu also lets the player check
+(Final Fantasy VI, Chrono Trigger...), this submenu also lets the player check
 their progress, what skills can be learned and such. Information about
 these skills is also displayed.
 
@@ -124,7 +124,7 @@ saving only at specific [save
 points](https://tvtropes.org/pmwiki/pmwiki.php/Main/SavePoint) (Radiant
 Historia): this submenu would be disabled at other times. Some take a mixed
 approach, letting the player save anytime while in the World Scene, but only
-at specific points while in the Local Scene (Final Fantasy 6, Chrono Trigger).
+at specific points while in the Local Scene (Final Fantasy VI, Chrono Trigger).
 
 
 ### Config
@@ -211,7 +211,7 @@ fast travel.
 - Most consumables are also stackable, in order to allow using multiple copies of
 the item in a short period of time. Most are also sellable.
 
-- **Final Fantasy 6** has items that can be both equipped and used in-battle:
+- **Final Fantasy VI** has items that can be both equipped and used in-battle:
 there are Rods that, when used during battle, unleash a strong spell. They are
 also consumable, as this usage consumes the item. They can also be equipped as
 weapons, in which case they have the usual weapon behavior and are not

@@ -19,7 +19,7 @@ of the character's body. Usually, taller character sprites result in an
 increased perspective, as more of the sprite overlaps with other objects
 without colliding with them.
 
-## Final Fantasy 6 (SNES, 256x224px)
+## Final Fantasy VI (SNES, 256x224px)
 
 ### Characters
 
@@ -40,7 +40,7 @@ other characters.
 
 ### Environment
 
-FF6 uses 16x16px tiles. The local environment is quite detailed, giving
+FFVI uses 16x16px tiles. The local environment is quite detailed, giving
 room for a lot of worldbuilding and immersion. Even though most towns look the
 same architecturally, many details such as tables, chairs, stoves, armor sets
 and other things can be seen inside houses. Combat takes place in a separate
@@ -55,7 +55,7 @@ animation, the sprite remains the same). Curiously, these enemy sprites also
 have a more realistic and detailed style, in contrast to the cartoony
 character sprites. This can be a bit weird when fighting human enemies!
 
-![Combat in FF6. Note the cartoonish player characters versus the more realistic enemies and background.](/assets/img/FF6_battle.PNG "Combat in FF6. Note the cartoonish player characters versus the more realistic enemies and background.")
+![Combat in FFVI. Note the cartoonish player characters versus the more realistic enemies and background.](/assets/img/FF6_battle.PNG "Combat in FFVI. Note the cartoonish player characters versus the more realistic enemies and background.")
 
 ## Pokémon (GB, 160x144; GBA, 240x160; NDS, 256x192)
 
@@ -89,7 +89,7 @@ games have no world scene beyond a very simple map sprite.
 ### Characters
 
 Crono Trigger's main character has a 15x36px idle sprite, used for both local
-exploration and combat. However, in contrast to FF6 and Golden Sun (detailed
+exploration and combat. However, in contrast to FFVI and Golden Sun (detailed
 below) this size is larger for some actions and characters. Movement is
 4-directional sprite-wise, but 8-directional in regards to controls.
 
@@ -108,10 +108,10 @@ cutscenes.
 
 ### Environment
 
-Similar to FF6, Chrono Trigger has 16x16tiles and a good degree of detail in
+Similar to FFVI, Chrono Trigger has 16x16tiles and a good degree of detail in
 its local scene. Chrono trigger overlays characters and enemies over the local
 exploration scene for its combat. However, Chrono Trigger's world scene is
-much more detailed than FF6's, making many locations distinctly different from
+much more detailed than FFVI's, making many locations distinctly different from
 each  other, even in this zoomed-out mode.
 
 ## Golden Sun (GBA, 240x160)
@@ -169,7 +169,7 @@ Pokémon games.
 
 In terms of player character sizes, we roughly have:
 ``` 
-FF6 < Golden Sun = Chrono Trigger < Radiant Historia
+FFVI < Golden Sun = Chrono Trigger < Radiant Historia
 ```
 
 with Pokémon sprites having varying sizes, but usually toward the lower side

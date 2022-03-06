@@ -38,7 +38,7 @@ can happen.
 
 ### Some examples
 
-- The first few generations of Pokémon games and Final Fantasy 6 have Local
+- The first few generations of Pokémon games and Final Fantasy VI have Local
 Scenes where player movement is  restricted to a grid. Talking with NPC locks
 the player in-place.
 
@@ -66,7 +66,7 @@ sense of scale; for example, the game can show the World Scene being affected
 during a cataclysmic event. However, having a World Scene usually requires
 creating additional art.
 
-![Locke from Final Fantasy 6, almost arriving at Figaro Castle, in the game's world scene](/assets/img/FF6_world.png "Locke from Final Fantasy 6, almost arriving at Figaro Castle, in the game's world scene")
+![Locke from Final Fantasy VI, almost arriving at Figaro Castle, in the game's world scene](/assets/img/FF6_world.png "Locke from Final Fantasy VI, almost arriving at Figaro Castle, in the game's world scene")
 
 Some games do not have a World Scene. The Pokémon series, for example, only
 has  a "Map" item that lets the players check the towns' relative positions,
@@ -79,17 +79,17 @@ simply because the scope of their stories don't need one.
 
 Games lacking a World Scene usually include a map in the Menu Scene; in 
 addition to this, many of them offer some sort of fast-travel mechanisms in
-order to allow the player to return to quickly return to places they've
-already explored. Many games with a World Scene lack a fast-travel option,
+order to allow the player to quickly return to places they've already 
+explored. Many games with a World Scene lack a fast-travel option,
 opting to invoke the [Global Airship
 trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/GlobalAirship) instead.
 
 ### Some examples
 
-- Final Fantasy 6 and Golden Sun have a World Scene where the player walks
+- Final Fantasy VI and Golden Sun have a World Scene where the player walks
 between locations, with random enemy encounters.
 
-- Chrono Trigger has a World Scene like FF6's, but without random encounters.
+- Chrono Trigger has a World Scene like FFVI's, but without random encounters.
 It is used in cutscenes, though.
 
 - Chrono Cross' World Scene is similar to Chrono Trigger's, but it's not used
@@ -128,9 +128,9 @@ all.
 
 ### Some examples
 
-- Undertale, Chrono Cross, TWEWY, Final Fantasy 6, Golden Sun, Radiant
+- Undertale, Chrono Cross, TWEWY, Final Fantasy VI, Golden Sun, Radiant
 Historia and the Pokémon series have a fully separate Battle Scene. Final
-Fantasy 6 and Golden sun can enter the Battle Scene from both the Local and
+Fantasy VI and Golden sun can enter the Battle Scene from both the Local and
 World Scenes; the others can only do so via the Local Scene
  
 - Chrono Trigger overlays its battles over the Local Scene, but it's a
@@ -168,7 +168,7 @@ and cutting down bushes in order to reach new areas. Both of these games also
 allow for abundant team/party customization, making the Menu Scene very
 important.
  
-- Final Fantasy 6, Chrono Trigger and others allow using healing techniques 
+- Final Fantasy VI, Chrono Trigger and others allow using healing techniques 
 outside of battle, through the Menu Scene.
 
 
