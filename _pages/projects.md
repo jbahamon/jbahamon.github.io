@@ -9,12 +9,15 @@ These are some of my projects and stuff.
 
 These are projects I am actively working on.
 
-* [HuasoWare](https://jbahamon.github.io/HuasoWare): A WarioWare but with
-chilean-themed microgames. Try it out [here](http://anakena.dcc.uchile.cl/~jbahamon/HuasoWare/HuasoWare.html).
+* [Kadath](https://github.com/jbahamon/Kadath) (in-progress name). A JRPG based on H.P. Lovecraft's "The Dream-Quest of Unknown Kadath". 
+Made using Godot. I might try to extract some libraries that could be used for other projectst from here (see [DialogBoxes](https://github.com/jbahamon/DialogBoxes) and [Keyboard-based Tab Container](https://github.com/jbahamon/godot-keyboard-based-tab-container) as rough, early examples)
 
 ## Inactive projects
 
-Projects I'll probably work on at some point. 
+Projects I might come back to at some point. 
+
+* [HuasoWare](https://github.com/jbahamon/HuasoWare): A WarioWare but with
+chilean-themed microgames. Made in Godot. Try it out [here](http://anakena.dcc.uchile.cl/~jbahamon/HuasoWare/HuasoWare.html).
 
 * [CTM](https://jbahamon.github.io/CTM): A MUGEN-based fighting game involving
 Chrono Trigger's characters.
